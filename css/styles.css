@@ -684,6 +684,7 @@ body {
   width: 342px;
   padding-left: 16px;
   margin-right: 12px;
+  color: var(--background-color);
 }
 
 .subscribe-input::placeholder {

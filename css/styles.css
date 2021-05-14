@@ -724,6 +724,10 @@ body {
   top: 13px;
 }
 
+.logo-link-text {
+  display: flex;
+}
+
 /* FOOTER END */
 
 /* PROJECTS */
